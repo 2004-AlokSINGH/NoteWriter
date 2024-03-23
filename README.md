@@ -1,4 +1,4 @@
-Sure, here's a basic README.md template for your advanced Java project using Spring MVC for note-taking:
+
 
 # Advanced Java Project with Spring MVC: Note-Taking App
 
