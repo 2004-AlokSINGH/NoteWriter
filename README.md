@@ -13,7 +13,7 @@ This project is a note-taking application developed using Java with Spring MVC f
 ## Installation and Setup
 1. Clone the repository to your local machine:
     ```bash
-    git clone <repository-url>
+    gh repo clone 2004-AlokSINGH/NoteWriter
     ```
 2. Navigate to the project directory:
     ```bash
